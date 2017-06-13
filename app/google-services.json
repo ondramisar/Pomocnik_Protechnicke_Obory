@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "814234644113",
+    "firebase_url": "https://pomocnik-pro-technicke-obory.firebaseio.com",
+    "project_id": "pomocnik-pro-technicke-obory",
+    "storage_bucket": "pomocnik-pro-technicke-obory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814234644113:android:e388e64134836671",
+        "android_client_info": {
+          "package_name": "com.companybest.ondra.pomocnikprotechnickeobory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814234644113-ugr0uc5eg7im8jd9v3hh7ni82mrtt5jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRUxECJRv9Jwj-X4VQCsFwJ8FOr5y_3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

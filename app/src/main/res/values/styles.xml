@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary_material_dark_1</item>
+    </style>
+
+    <style name="BlueModife" parent="AppTheme" >
+        <item name="colorPrimary">@color/primary_material_dark_1</item>
+    </style>
+
+</resources>
